@@ -1,0 +1,21 @@
+{
+    "todos" : [
+        {
+        "id": 1,
+        "taskName": "to eat",
+        "isFinished": false
+        },
+
+        {
+            "id": 2,
+            "taskName": "to sleep",
+            "isFinished": false
+        },
+
+        {
+            "id": 3,
+            "taskName": "to study",
+            "isFinished": false
+        }
+]
+}
